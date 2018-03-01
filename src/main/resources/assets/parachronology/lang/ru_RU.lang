@@ -1,0 +1,15 @@
+generator.void=Пустой мир
+parachronology:petrifiedwood.name=Остолбеневшее Дерево
+tile.parachronology:storage.name=Хранилище Времени
+item.parachronology:capturedmoment.name=Пойманный Момент
+parachronology:chrono-displacer.name=Хронический Дисплейсер
+parachronology:chrono-displacer1.name=Хронический Дисплейсер
+parachronology:chrono-displacer2.name=Хронический Дисплейсер
+parachronology:displacer.name=Хронический Дисплейсер
+parachronology:simplemoment.name=Простой Момент
+parachronology:moment.name=Момент
+parachronology:complexmoment.name=Комплексованный Момент
+parachronology:tier2upgrade.name=Улучшение 2 уровня
+parachronology:tier3upgrade.name=Улучшение 3 уровня
+item.parachronology:bias.name=Биас
+item.parachronology:basicmoment.name=Базовый Момент
